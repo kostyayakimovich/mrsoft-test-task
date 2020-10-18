@@ -1,0 +1,10 @@
+@mixin centerEl {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+    }
+    @mixin centerElBetween {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+        }
